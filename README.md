@@ -1,2 +1,5 @@
-# Neural-Networks-and-Deep-Learning
-吴恩达深度学习课程课后编程作业
+# Deep-Learning-Coursera-Douzi
+## lesson1: Neural-Networks-and-Deep-Learning
+- week2
+- week3
+- week4
